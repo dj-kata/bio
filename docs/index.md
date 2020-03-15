@@ -41,7 +41,7 @@ GENOCIDE 2018 発狂六段、リコメンド★15.2ぐらい(2020/3/15現在)。
 
 ## その他リンク
 [twitter](https://twitter.com/cold_planet_)  
-[地力表](https://sp12.iidx.app/sheets/2300-5138/hard)
+[地力表](https://sp12.iidx.app/sheets/2300-5138/hard)  
 [BPI Manager](https://bpi.poyashi.me/u/KATA)  
-[BMS Lamp Graph for beatoraja](http://lnt.softether.net/cgi-bin/beatoraja/view.php?id=325)
-[Mocha-Repository](https://mocha-repository.info/player.php?id=355)
+[BMS Lamp Graph for beatoraja](http://lnt.softether.net/cgi-bin/beatoraja/view.php?id=325)  
+[Mocha-Repository](https://mocha-repository.info/player.php?id=355)  
