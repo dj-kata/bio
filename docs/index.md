@@ -22,7 +22,7 @@ PEN九段→cop中伝→SB中伝→CB中伝→Rt皆伝(2019.2.16)→HV八段
 最近はゆるく鍵盤でバンドをやっているとか。
 
 ## その他リンク
-[twitter](https://twitter.com/cold_planet_)
-[地力表](https://sp12.iidx.app/sheets/2300-5138/hard)  
+[twitter](https://twitter.com/cold_planet_)  
+[地力表](https://sp12.iidx.app/sheets/2300-5138/hard)
 [BPI Manager](https://bpi.poyashi.me/u/KATA)
-[BMS](http://lnt.softether.net/cgi-bin/beatoraja/view.php?id=325)  
+[BMS](http://lnt.softether.net/cgi-bin/beatoraja/view.php?id=325)
