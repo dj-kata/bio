@@ -13,12 +13,12 @@ HN: かたさん
 
 |date|event|
 |---|---|
-|2018/08/07|[地力A全白(天空の夜明け)](https://twitter.com/cold_planet_/status/1026810874512588800?s=20)|
-|2018/09/13|[個人差A全白(Rave*it Rave*it)](https://twitter.com/cold_planet_/status/1040227044338987009?s=20)|
+|2018/08/07|[地力A 全白(天空の夜明け)](https://twitter.com/cold_planet_/status/1026810874512588800?s=20)|
+|2018/09/13|[個人差A 全白(Rave*it Rave*it)](https://twitter.com/cold_planet_/status/1040227044338987009?s=20)|
 |2018/09/18|[GENOCIDE 2018 発狂三段 合格](https://twitter.com/cold_planet_/status/1042077004751720454)|
-|2018/11/30|[地力A+全白(デス地獄)](https://twitter.com/cold_planet_/status/1068773190699085824)|
-|2018/12/21|[個人差A+全白(地獄超特急)](https://twitter.com/cold_planet_/status/1076105563769958400)|
-|2019/02/16|[SP皆伝合格(2P正規)](https://twitter.com/cold_planet_/status/1096677019184619520)|
+|2018/11/30|[地力A+ 全白(デス地獄)](https://twitter.com/cold_planet_/status/1068773190699085824)|
+|2018/12/21|[個人差A+ 全白(地獄超特急)](https://twitter.com/cold_planet_/status/1076105563769958400)|
+|2019/02/16|[SP皆伝 合格(2P正規)](https://twitter.com/cold_planet_/status/1096677019184619520)|
 |2019/06/29|[GENOCIDE 2018 発狂四段 合格](https://twitter.com/cold_planet_/status/1145181065981521920?s=19)|
 |2020/01/08|[GENOCIDE 2018 発狂五段 合格](https://twitter.com/cold_planet_/status/1214946034314465280)|
 |2020/01/29|[GENOCIDE 2018 発狂六段 合格](https://twitter.com/cold_planet_/status/1222182047017365506)|
