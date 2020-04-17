@@ -22,6 +22,7 @@ HN: かたさん
 |2019/06/29|[GENOCIDE 2018 発狂四段 合格](https://twitter.com/cold_planet_/status/1145181065981521920?s=19)|
 |2020/01/08|[GENOCIDE 2018 発狂五段 合格](https://twitter.com/cold_planet_/status/1214946034314465280)|
 |2020/01/29|[GENOCIDE 2018 発狂六段 合格](https://twitter.com/cold_planet_/status/1222182047017365506)|
+|2020/04/18|[INFINITAS SP皆伝 合格](https://twitter.com/cold_planet_/status/1251157218633715714)|
 
 ## BMS
 皆伝受かってから真面目に始めたので歴は浅め。  
