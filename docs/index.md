@@ -29,6 +29,7 @@ INFINITAS: C-7468-0009-2963
 |2020/01/08|[GENOCIDE 2018 発狂五段 合格](https://twitter.com/cold_planet_/status/1214946034314465280)|
 |2020/01/29|[GENOCIDE 2018 発狂六段 合格](https://twitter.com/cold_planet_/status/1222182047017365506)|
 |2020/04/18|[INFINITAS SP皆伝 合格](https://twitter.com/cold_planet_/status/1251157218633715714)|
+|2021/04/17|[発狂七段合格](https://twitter.com/cold_planet_/status/1383334586076176385)|
 
 ## BMS
 皆伝受かってから真面目に始めたので歴は浅め。  
