@@ -18,6 +18,5 @@ If you have any questions, please contact me via Twitter(X) or Issues of each re
 - [X(Twitter)](https://twitter.com/cold_planet_)  
 - [YouTube](https://www.youtube.com/channel/UCaUQWvZ6gA7yPlbeA8Q872g)
 - [GitHub](https://github.com/dj-kata)
-- 
 - [地力表](https://sp12.iidx.app/sheets/2300-5138/hard)  
 - [Mocha-Repository](https://mocha-repository.info/player.php?id=355)  
