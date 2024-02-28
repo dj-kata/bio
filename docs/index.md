@@ -1,6 +1,6 @@
 # about
-name: かたさん  
-like: 音ゲー/どうぶつ鑑賞/アプリ開発/ごくたまに楽器演奏  
+name: かた(kata)  
+like: 音ゲー/どうぶつ鑑賞/アプリ開発/ごくたまに楽器演奏(Gt/Key)  
 lang: JP/EN
 
 # Softwares
@@ -11,7 +11,7 @@ lang: JP/EN
 |[sdvx_helper](https://github.com/dj-kata/sdvx_helper)|コナステSDVXの曲情報表示、リザルト自動保存、VF集計など|
 |[ytlive_helper](https://github.com/dj-kata/ytlive_helper)|YoutubeLiveのコメントを拾って動作するお題箱|
 
-バグ報告や質問はTwitterかGithubのIssuedへお願いします。  
+バグ報告や質問はTwitterかGithubのIssuesへお願いします。  
 If you have any questions, please contact me via Twitter(X) or Issues of each repository.
 
 # Links
